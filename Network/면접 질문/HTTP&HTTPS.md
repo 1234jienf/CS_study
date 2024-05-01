@@ -27,7 +27,7 @@
 4. TCP 연결을 닫거나 다른 요청들을 위해 재사용
 
 
-<img src="../Assets/HTTPmessage.png">
+<img src="../Assets/HTTPmessage.png">
 
 1. HTTP Method + Path + 프로토콜 종류
 2. HTTP 요청 헤더, 리소스를 요청하는 경로
@@ -62,7 +62,6 @@
 
 
 #### HTTPS 동작 방식
-
 
 
 1. 클라이언트는 서버에 접속하면, 서버인증서(CA)를 받는다.
