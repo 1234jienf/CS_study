@@ -21,4 +21,9 @@
   - [OSI 7계층](./Network/면접%20질문/OSI_7계층.md)
 
 - Network
+
   - 1.  [네트워크의 기본](./Network/01.네트워크의%20기본.md)
+
+- Algorithm (면접 질문 준비)
+
+  - [DP](./Algorithm/Dp.md)
