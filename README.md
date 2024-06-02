@@ -27,3 +27,4 @@
 - Algorithm (면접 질문 준비)
 
   - [DP](./Algorithm/Dp.md)
+  - [BubbleSort](./Algorithm/BubbleSort.md)
